@@ -35,20 +35,3 @@ from Employees order by EmpLastName , EmpFirstName;
 show schemas;
 use entertainmentagencyexample;
 select DISTINCT entertainmentagencyexample.engagements.StartDate from engagements;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
