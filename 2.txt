@@ -37,27 +37,3 @@ select Bowlers.BowlerFirstName , Bowlers.BowlerAddress from Bowlers order by Bow
 use RecipesExample;
 select * from Ingredients;
 select * from Recipes order by RecipeTitle asc;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
